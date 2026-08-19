@@ -5,7 +5,7 @@
 **Course:** Unstructured Data Analysis (Group 1)
 **Team:** Hyeondong Lee, Jaejun Kim, **Jihong Min**, Uijae Ryu
 
-📄 [Full Report (PDF)](./docs/UD_Term_Project_Report_Group1.pdf) · 📊 [Slides (PDF)](./docs/UD_Term_Project_Slides_Group1.pdf)
+📄 [Full Report (PDF)](./UD_Term_Project_Report_Group1.pdf) · 📊 [Slides (PDF)](./UD_Term_Project_Slides_Group1.pdf)
 
 ---
 
